@@ -1,0 +1,23 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "carlddddddd",
+      "email": "carl@gmail.com",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "json",
+      "email": "json@gmail.com",
+      "phone": "3453637466"
+    },
+    {
+      "name": "sd",
+      "email": "sdsd@gmail.com",
+      "phone": "sds",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
